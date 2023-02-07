@@ -24,6 +24,3 @@ jobs:
           base_href: /password-generator/  
           deploy_branch: gh-pages 
           angular_dist_build_folder: dist/password-generator
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v1
