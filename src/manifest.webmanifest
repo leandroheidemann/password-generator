@@ -1,7 +1,7 @@
 {
   "name": "password-generator",
   "short_name": "password-generator",
-  "theme_color": "#1976d2",
+  "theme_color": "#432263",
   "background_color": "#fafafa",
   "display": "standalone",
   "scope": "./",
